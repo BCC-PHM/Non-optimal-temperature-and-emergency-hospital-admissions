@@ -21,8 +21,6 @@
 # Exclude output formats
 *.doc
 *.docx
-*.html
 *.pdf
 *.ppt
 *.pptx
-*.svg

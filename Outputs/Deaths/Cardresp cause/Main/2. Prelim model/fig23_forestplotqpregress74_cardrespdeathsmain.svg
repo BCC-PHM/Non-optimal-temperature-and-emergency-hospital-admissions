@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='720.00pt' height='360.00pt' viewBox='0 0 720.00 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='-0.000000000000064' y='0.00' width='720.00' height='360.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNTUuNzF8NzE0LjUyfDIzLjE4fDMyOC41MA=='>
+    <rect x='55.71' y='23.18' width='658.82' height='305.33' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTUuNzF8NzE0LjUyfDIzLjE4fDMyOC41MA==)'>
+<rect x='55.71' y='23.18' width='658.82' height='305.33' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='354.13' cy='293.27' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='333.48' cy='234.56' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='281.85' cy='175.84' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='292.18' cy='117.12' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='405.77' cy='58.41' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
+<polyline points='684.57,319.70 684.57,266.85 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='684.57,293.27 85.65,293.27 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='85.65,319.70 85.65,266.85 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='467.72,260.98 467.72,208.13 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='467.72,234.56 209.57,234.56 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='209.57,260.98 209.57,208.13 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='395.44,202.26 395.44,149.42 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='395.44,175.84 188.91,175.84 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='188.91,202.26 188.91,149.42 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='364.46,143.55 364.46,90.70 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='364.46,117.12 219.89,117.12 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='219.89,143.55 219.89,90.70 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='560.66,84.83 560.66,31.98 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='560.66,58.41 271.52,58.41 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='271.52,84.83 271.52,31.98 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='302.50' y1='328.50' x2='302.50' y2='23.18' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)'>
+<polyline points='55.71,328.50 55.71,23.18 ' style='stroke-width: 1.07; stroke-linecap: square;' />
+<text x='50.77' y='296.42' text-anchor='end' style='font-size: 8.80px; font-family: "Arial";' textLength='19.91px' lengthAdjust='spacingAndGlyphs'>&lt;0°C</text>
+<text x='50.77' y='237.71' text-anchor='end' style='font-size: 8.80px; font-family: "Arial";' textLength='22.58px' lengthAdjust='spacingAndGlyphs'>0-4°C</text>
+<text x='50.77' y='178.99' text-anchor='end' style='font-size: 8.80px; font-family: "Arial";' textLength='22.58px' lengthAdjust='spacingAndGlyphs'>5-9°C</text>
+<text x='50.77' y='120.27' text-anchor='end' style='font-size: 8.80px; font-family: "Arial";' textLength='32.36px' lengthAdjust='spacingAndGlyphs'>10-14°C</text>
+<text x='50.77' y='61.56' text-anchor='end' style='font-size: 8.80px; font-family: "Arial";' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>&gt;20°C</text>
+<polyline points='52.97,293.27 55.71,293.27 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='52.97,234.56 55.71,234.56 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='52.97,175.84 55.71,175.84 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='52.97,117.12 55.71,117.12 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='52.97,58.41 55.71,58.41 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='55.71,328.50 714.52,328.50 ' style='stroke-width: 1.07; stroke-linecap: square;' />
+<polyline points='95.98,331.24 95.98,328.50 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='302.50,331.24 302.50,328.50 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='509.03,331.24 509.03,328.50 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='95.98' y='339.74' text-anchor='middle' style='font-size: 8.80px; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.8</text>
+<text x='302.50' y='339.74' text-anchor='middle' style='font-size: 8.80px; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<text x='509.03' y='339.74' text-anchor='middle' style='font-size: 8.80px; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.2</text>
+<text x='385.11' y='352.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='64.19px' lengthAdjust='spacingAndGlyphs'>Relative Risk</text>
+<text transform='translate(13.36,175.84) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='156.59px' lengthAdjust='spacingAndGlyphs'>Temperature group (categorical)</text>
+<text x='55.71' y='14.93' style='font-size: 13.20px; font-family: "Arial";' textLength='384.72px' lengthAdjust='spacingAndGlyphs'>RR of mortality compared to reference group 15-19°C (aged 0-74)</text>
+</g>
+</g>
+</svg>
